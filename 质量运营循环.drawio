@@ -1,20 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T09:37:23.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-HqD8WSKgpAcXFDACvXv" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T10:29:38.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OyRDe5FogZw345BqBVSM" version="20.6.2" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WJW1R0OA9qgobY2XWtLN-1" value="音视频质量实时统计&lt;br&gt;通话分析" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipH=1;html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="410" y="60" width="150" height="150" as="geometry" />
+          <mxGeometry x="60" y="40" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="WJW1R0OA9qgobY2XWtLN-2" value="服务端状态实时统计&lt;br&gt;服务端日志收集" style="shape=mxgraph.basic.diag_round_rect;dx=37;html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="570" y="60" width="150" height="150" as="geometry" />
+        <mxCell id="WJW1R0OA9qgobY2XWtLN-2" value="服务端状态实时统计&lt;br&gt;服务端日志收集&lt;br&gt;快速扩容" style="shape=mxgraph.basic.diag_round_rect;dx=37;html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WJW1R0OA9qgobY2XWtLN-3" value="客户端行为日志收集&lt;br&gt;情景还原&lt;br&gt;问题诊断" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipH=1;flipV=1;html=1;fillColor=#AE4132;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="410" y="220" width="150" height="150" as="geometry" />
+          <mxGeometry x="60" y="200" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WJW1R0OA9qgobY2XWtLN-4" value="运营大盘&lt;br&gt;实时监控预警&lt;br&gt;日志分析" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipV=1;html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="150" height="150" as="geometry" />
+          <mxGeometry x="220" y="200" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WJW1R0OA9qgobY2XWtLN-10" value="实时音视频&lt;br&gt;单会议支持多达2000+终端" style="whiteSpace=wrap;html=1;fontSize=14;shadow=1;strokeColor=#DDDDDD;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WJW1R0OA9qgobY2XWtLN-11" value="实时音视频&lt;br&gt;单4核8G服务器&lt;br&gt;支持500路流转发" style="whiteSpace=wrap;html=1;fontSize=14;shadow=1;strokeColor=#DDDDDD;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="612" y="120" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WJW1R0OA9qgobY2XWtLN-12" value="&lt;div&gt;云MCU&lt;/div&gt;&lt;div&gt;单核可解5路720P&lt;/div&gt;&lt;div&gt;单核可编1路720P&lt;/div&gt;&lt;div&gt;支持GPU加速&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;shadow=1;strokeColor=#DDDDDD;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WJW1R0OA9qgobY2XWtLN-13" value="低延时直播&lt;br&gt;单房间支持10万人在线&lt;br&gt;&lt;br&gt;CDN直播&lt;br&gt;单房间支持百万人在线" style="whiteSpace=wrap;html=1;fontSize=14;shadow=1;strokeColor=#DDDDDD;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="773" y="120" width="110" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
